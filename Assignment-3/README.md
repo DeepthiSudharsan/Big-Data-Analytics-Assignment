@@ -9,7 +9,9 @@
 ### f. Amalgamate the data with an hourly time stamp (use ‘reduceByKey’); average the price and add the volumes, write it to a directory (use rdd.saveAsTextFile(“directory”) ).
 ***
 ### To run the file, launch your spark-shell in the directory where the data file is, and type,
-### :load aie19022-deepthi-4.scala
+```
+:load aie19022-deepthi-4.scala
+```
 ***
 #### NOTE: OUTPUT HAS BEEN COMMENTED IN THE CODE FOR REFERENCE.
 ***
