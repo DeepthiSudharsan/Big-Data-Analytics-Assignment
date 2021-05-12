@@ -10,7 +10,9 @@
 ### g. Create a Data Frame(DF) of the full data and show it in tabular form with column names
 ***
 ### To run the file, launch your spark-shell in the directory where the data file is, and type,
-### :load aie19022-deepthi-3.scala
+```
+:load aie19022-deepthi-3.scala
+```
 ***
 #### NOTE: OUTPUT HAS BEEN COMMENTED IN THE CODE FOR REFERENCE.
 ***
